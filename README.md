@@ -1,4 +1,4 @@
-# JavascriptTutorials
+# Javascript Tutorials
 
 Hello, world!
 
